@@ -1,4 +1,5 @@
-**TOC Election Schedule v1.2**
+# TOC Election Schedule
+Version 1.2
 
 This page lays out the election schedule for the CNCF’s Technical Oversight Committee (TOC) to implement the requirements of the CNCF [charter](https://github.com/cncf/foundation/blob/main/charter.md), including:
 
@@ -12,7 +13,7 @@ This page lays out the election schedule for the CNCF’s Technical Oversight Co
 
 Current TOC [Members](https://github.com/cncf/toc#members) and terms are listed on the main page.
 
-**Schedule**
+## Schedule
 
 *All terms are two years. Selected means reappointed or replaced.*
 
@@ -22,7 +23,7 @@ Current TOC [Members](https://github.com/cncf/toc#members) and terms are listed 
 * 3/17/2019 (and each future year): 1 TOC-selected TOC member is selected.
 * 1/29/2020 (and each future year): 3 GB-selected TOC members are selected.
 
-**Voting Process**
+## Voting Process
 
 The following is the default timeline for TOC selections to use. The times can be adjusted to avoid weekends and holidays, but it’s essential that the final schedule be published in advance and adhered to. Eligible voters are specified publicly during the nomination process. Voting occurs by a time-limited Condorcet-IRV ranking in [CIVS](http://civs.cs.cornell.edu/).
 
@@ -31,6 +32,6 @@ The following is the default timeline for TOC selections to use. The times can b
 * A ballot will be distributed on: E-7 days
 * The election will be completed on: Noon PT, E-day and election results are announced
 
-**Vacancies**
+## Vacancies
 
 Any vacancies will be filled by using the original selection method for that seat and the replacement will serve the remainder of the original term.
